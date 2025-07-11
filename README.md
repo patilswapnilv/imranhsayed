@@ -1,7 +1,3 @@
-<a href="https://youtube.com/ImranSayedDev/?sub_confirmation=1" target="_blank">
-<img src="https://codeytek.com/wp-content/uploads/2020/07/stage-image.jpg" alt="profile" />
-</a>
-
 ### Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 Imran is a <a href="https://www.youtube.com/c/ImranSayedDev"><img align="center" src="https://img.shields.io/badge/Full%20Stack-Engineer-brightgreen"/></a>
@@ -18,7 +14,7 @@ Imran organizes Meetups in :
 
 [![PuneJSCamp](https://img.shields.io/badge/2.meetup%20group-PuneJSCamp-blue)][m2]
 
-Imran is also the founder of <a href="https://codeytek.com"><img align="center" src="https://img.shields.io/badge/-Codeytek%20Academy-blue"/></a>
+Imran is also the founder of <a href="https://codeytek.org/"><img align="center" src="https://img.shields.io/badge/-Codeytek%20Academy-blue"/></a>
 </p>
 
 He loves to write blogs on [Medium](https://medium.com/@imranhsayed)
